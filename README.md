@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bhanu Prasad 👋
 
-<!--
-**bhanuprasad1695/bhanuprasad1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE student focusing on AI/ML. I enjoy turning data into working models and I'm looking for internship opportunities.
 
-Here are some ideas to get you started:
+## Skills
+Python • Pandas • NumPy • Scikit-learn • Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- **AIML Intern, InternPe**: worked with Python, Pandas, NumPy, and Scikit-learn
+
+## Currently
+- Building AI/ML projects and uploading them here
+- Looking for internships and people to learn from
+
+## Contact
+- Email: bhanuprasadtheerupally@gmail.com
+- LinkedIn: www.linkedin.com/in/bhanu-prasad-reddy-theerupally-212ba4416
